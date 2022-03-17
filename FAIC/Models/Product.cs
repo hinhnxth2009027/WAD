@@ -11,8 +11,8 @@ namespace FAIC.Models
         public string ProductName { get; set; }
         public string SupplierId { get; set; }
         public int CategoryId { get; set; }
-        public string QuantityPerUnit { get; set; }
-        public string UnitPrice { get; set; }
+        public int QuantityPerUnit { get; set; }
+        public int UnitPrice { get; set; }
         public string UnitsInStock { get; set; }
         public string UnitsOnOrder { get; set; }
         public string ReorderLevel { get; set; }

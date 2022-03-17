@@ -151,6 +151,10 @@
     <Compile Include="Migrations\202203171220008_initProject2.Designer.cs">
       <DependentUpon>202203171220008_initProject2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202203171238454_addSeeder.cs" />
+    <Compile Include="Migrations\202203171238454_addSeeder.Designer.cs">
+      <DependentUpon>202203171238454_addSeeder.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\Product.cs" />
@@ -228,6 +232,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202203171220008_initProject2.resx">
       <DependentUpon>202203171220008_initProject2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203171238454_addSeeder.resx">
+      <DependentUpon>202203171238454_addSeeder.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

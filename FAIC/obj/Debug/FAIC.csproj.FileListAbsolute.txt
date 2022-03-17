@@ -89,3 +89,4 @@ C:\Users\5470\source\repos\FAIC\FAIC\obj\Debug\FAIC.csproj.GenerateResource.cach
 C:\Users\5470\source\repos\FAIC\FAIC\obj\Debug\FAIC.csproj.AssemblyReference.cache
 C:\Users\5470\source\repos\FAIC\FAIC\obj\Debug\FAIC.Migrations.initProject1.resources
 C:\Users\5470\source\repos\FAIC\FAIC\obj\Debug\FAIC.Migrations.initProject2.resources
+C:\Users\5470\source\repos\FAIC\FAIC\obj\Debug\FAIC.Migrations.addSeeder.resources
